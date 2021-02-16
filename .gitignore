@@ -1,0 +1,7 @@
+# Doesn't Commit any discord data
+INPUT/*
+!INPUT/.gitkeepfolder
+
+# Doesn't Commit any discord data (From the output)
+OUTPUT/*
+!OUTPUT/.gitkeepfolder
