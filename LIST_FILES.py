@@ -8,7 +8,7 @@ for directory, subdirectories, files in os.walk('INPUT'):
         print(path)
         fileCount += 1
 
-print(f'\n\n\n Listed all Files in all directories ({fileCount} Files)')
+print(f'\n\n\nListed all Files in all directories ({fileCount} Files)')
 
 while True:
     continue
